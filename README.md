@@ -5,10 +5,13 @@
 
 ## Features
 
-### Image Caption Generator algo
+### 1) Image Caption Generator algo
 
 
-### Machine Translation  algo
+
+
+
+### 2)Machine Translation  algo
 
 
 
